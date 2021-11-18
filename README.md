@@ -1,5 +1,5 @@
 # Counter
-Simple counter to alert user on the number of times the button was clicked by the user
+Simple counter to alert user on the number of times the button was clicked by the user.
 =======
 # Getting Started with Create React App
 
